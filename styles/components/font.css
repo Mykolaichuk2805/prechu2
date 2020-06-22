@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Segoe WP N";
+  src: url("//db.onlinewebfonts.com/t/e0e4015ec8dc1e11fb69ed1a5de22f58.eot");
+  src: url("//db.onlinewebfonts.com/t/e0e4015ec8dc1e11fb69ed1a5de22f58.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/e0e4015ec8dc1e11fb69ed1a5de22f58.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/e0e4015ec8dc1e11fb69ed1a5de22f58.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/e0e4015ec8dc1e11fb69ed1a5de22f58.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/e0e4015ec8dc1e11fb69ed1a5de22f58.svg#Segoe WP N")
+      format("svg");
+}
