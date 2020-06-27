@@ -6,13 +6,13 @@
   padding: 22px 0 15px 15px;
 }
 
-@media (min-width: 641px) {
+@media (min-width: 640px) {
   .section-header {
     padding-left: 70px;
   }
 }
 
-@media (min-width: 1251px) {
+@media (min-width: 1250px) {
   .section-header {
     padding-left: 70px;
   }
@@ -29,13 +29,13 @@
 .section-icons {
 }
 
-@media (min-width: 641px) {
+@media (min-width: 640px) {
   .section-icons {
     padding: 33px 40px 0 40px;
   }
 }
 
-@media (min-width: 1251px) {
+@media (min-width: 1250px) {
   .section-icons {
   }
 }
@@ -44,13 +44,13 @@
   padding-top: 45px;
 }
 
-@media (min-width: 641px) {
+@media (min-width: 640px) {
   .section-cart {
     padding-top: 58px;
   }
 }
 
-@media (min-width: 1251px) {
+@media (min-width: 1250px) {
   .section-cart {
     padding-top: 68px;
   }

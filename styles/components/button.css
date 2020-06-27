@@ -44,7 +44,7 @@
   }
 }
 
-@media (min-width: 641px) {
+@media (min-width: 640px) {
   .button-primary {
     font-size: 26px;
     width: 200px;
@@ -52,7 +52,7 @@
   }
 }
 
-@media (min-width: 1251px) {
+@media (min-width: 1250px) {
   .button-primary {
     font-size: 22px;
     width: 180px;
